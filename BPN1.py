@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+
+@author: KnAsTc
 """
 import numpy as np
 import math
